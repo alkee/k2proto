@@ -75,3 +75,6 @@ crashlytics-build.properties
 # Generated code
 /[Aa]ssets/Script/[Gg]enerated/
 /[Aa]ssets/Script/[Gg]enerated.meta
+
+
+.vsconfig
